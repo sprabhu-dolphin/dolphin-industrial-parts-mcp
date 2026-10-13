@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dolphin-industrial-parts": {
+      "type": "http",
+      "url": "https://dolphinindustrialparts.com/agent/mcp"
+    }
+  }
+}

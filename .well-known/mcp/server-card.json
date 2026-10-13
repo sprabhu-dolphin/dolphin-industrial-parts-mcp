@@ -1,0 +1,13 @@
+{
+  "name": "com.dolphinindustrialparts/parts",
+  "version": "1.0.0",
+  "title": "Dolphin Industrial Parts",
+  "description": "Read-only lookup of supported OEM brands, models and part numbers for compatible marine spare parts; no prices.",
+  "websiteUrl": "https://dolphinindustrialparts.com/for-ai-agents/",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://dolphinindustrialparts.com/agent/mcp"
+    }
+  ]
+}
